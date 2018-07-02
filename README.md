@@ -1,1 +1,1 @@
-# RGB-ColorGame
+# Color Game Project
